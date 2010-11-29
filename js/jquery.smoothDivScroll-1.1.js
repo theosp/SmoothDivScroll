@@ -485,6 +485,7 @@
 				}
 			}
 			
+			self._showHideHotSpots();
 		},
 		/**********************************************************
 		 Stopping, starting and doing the autoscrolling
